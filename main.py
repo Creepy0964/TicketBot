@@ -1,6 +1,6 @@
 import telebot
 
-token = '6560106626:AAGrRgHOaPJbMG3TIctF74Nv-vBV3Zn_5dI' # сюда токен
+token = '' # сюда токен
 admin_id = '' # сюда числовой id телеграма (можно узнать через @userinfobot)
 
 bot = telebot.TeleBot(token)
